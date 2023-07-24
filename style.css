@@ -425,10 +425,13 @@ footer {
     .cards {
         display: flex;
         flex-direction: column;
-        width: 100%;
+        width: 50%;
         margin: auto;
+        
     }
 
+    
+}
     body {
         margin: auto;
         width: 90%
@@ -521,7 +524,7 @@ footer {
         top: 20px;
     }
 
-}
+
 
 
 .about .post-image {
